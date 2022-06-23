@@ -1,0 +1,11 @@
+C:\Users\uclme\source\repos\test\coderByteAssessment\Article.Client\bin\Debug\net5.0\Articles.Client.deps.json
+C:\Users\uclme\source\repos\test\coderByteAssessment\Article.Client\bin\Debug\net5.0\Articles.Client.dll
+C:\Users\uclme\source\repos\test\coderByteAssessment\Article.Client\bin\Debug\net5.0\ref\Articles.Client.dll
+C:\Users\uclme\source\repos\test\coderByteAssessment\Article.Client\bin\Debug\net5.0\Articles.Client.pdb
+C:\Users\uclme\source\repos\test\coderByteAssessment\Article.Client\obj\Debug\net5.0\Articles.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uclme\source\repos\test\coderByteAssessment\Article.Client\obj\Debug\net5.0\Articles.Client.AssemblyInfoInputs.cache
+C:\Users\uclme\source\repos\test\coderByteAssessment\Article.Client\obj\Debug\net5.0\Articles.Client.AssemblyInfo.cs
+C:\Users\uclme\source\repos\test\coderByteAssessment\Article.Client\obj\Debug\net5.0\Articles.Client.csproj.CoreCompileInputs.cache
+C:\Users\uclme\source\repos\test\coderByteAssessment\Article.Client\obj\Debug\net5.0\Articles.Client.dll
+C:\Users\uclme\source\repos\test\coderByteAssessment\Article.Client\obj\Debug\net5.0\ref\Articles.Client.dll
+C:\Users\uclme\source\repos\test\coderByteAssessment\Article.Client\obj\Debug\net5.0\Articles.Client.pdb
